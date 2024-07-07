@@ -1,0 +1,571 @@
+{
+  "data":
+[
+  {
+    "idOrganisation": 173345556,
+    "name": "Моточек",
+    "avatar": "https://s3-alpha-sig.figma.com/img/3b71/f45d/a6d3089320c6466290742c533d257e58?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Gm7y1cjCyMmJjFH5RkRv1cVh-sMcUVYZfCkImF0RedSq79GwhokMZR0wdBLD4X75i7Vp5tDxJboh4Hb4C-cuSTs~n0WSl~aTw~xcB0zpjvtYTfpH5-eKjw8o8M~AKgvLDs8Cd0box1B9NR7l9K-abi5~0Go2o5~-eGioQz27Ey13tJChlxs7TVZQrt6DgEirnYFmMkkSI-lESO0-MNmjg1PFQLNIgij9RLfa6gGqxA4YOI3i1qMAB14RY0-0XpyQqkXTan8UgLJVh62uMaKLjQQLxu3dBju7muVM-LJ0Pk1lwR-h7rs-ZzRDZaoJB--wQib7Va5IK0ALJft4FUj2Ew__",
+    "organisationLink": "Motochek",
+    "stories": [
+      {
+        "storyUrl": "https://s3-alpha-sig.figma.com/img/8303/64f0/5334352e8950fb2a4b94b471bcbe1521?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=SkDCP7GVzRS2aXSM-h9rNMR6XOeL4KfL~-RdGCkRQKWWWrIc8wuXROtlmRPrKVHiE0R1Wu7iDoaOkAdlqXQ4CWf9~zbl-hJheEovAoi3pezhihj0lgMj0QG93H9ObjB1eYdLpJamM9gcqzWvQ8gu7p1cjzR6qMYAFguERK8DD7sIhFf0rmcy1TsDHaAkqRbss68FRT82ibqMyo2CittH8PxK38-YUFXrmOroKiIMPhVacUgUV9sRG2oTzTLcOzFEr-jc301tz72cp8AryMev9~meea3a-PAaCF7ZuCjsg70uhhXBh2S0JmqvXNwfvD0XjjVzd0b73bo7uPkO-R3sYw__",
+        "id": 15994017481,
+        "datePublic": "2024-06-28T12:08:32.000",
+        "serviceIds": [],
+        "productIds": [],
+        "labels": [
+          {
+            "name": "Записаться на окрашивание",
+            "x": 79,
+            "y": 203.5,
+            "link": "Записаться на окрашивание"
+          }
+        ]
+      },
+      {
+        "storyUrl": "https://s3-alpha-sig.figma.com/img/281e/9340/0a3ab8c0482286fc61153a486dbf658c?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=BFDLPaihM-5Wq7JLD51kmVtleFO--qz7rWNx4TNqT93goqMnSj9Cib-C-SVzSJVeMHGz4PTNnPKqju9h9X0JTG48LzQFLhjeinflM0RwERQ5oHnRi6oYqsm4aMvYozNo06a3QZL5JdMv3MpIMxWnAR2vtumQYN83tZJDurTG6UWHKhuLcsQeoYvQH9P0XubLNe8ISPHWsqeOCVJ7WvAHi8EDkIh2ty-4eM2TDfj2Yzi1ez9Fx6Zm4BpFzO9MB~1lBM~Zd9wKEhho5dWnPz1Mu10nAePgy-Dg8uneVWZtwnH6ax70A-ZRzJcapTk00VFezS7OlNOmnXJ0v43GqsreDQ__",
+        "id": 15994017482,
+        "datePublic": "2024-06-28T12:08:34.000",
+        "serviceIds": [],
+        "productIds": [],
+        "labels": [
+          {
+            "name": "Записаться на окрашивание",
+            "x": 97,
+            "y": 318,
+            "link": "Записаться на окрашивание"
+          }
+        ]
+      },
+      {
+        "storyUrl": "https://ik.imagekit.io/myersdev/videoplayback.mp4",
+        "id": 15994017486,
+        "datePublic": "2024-06-28T12:08:40.000",
+        "serviceIds": [],
+        "productIds": [],
+        "labels": [
+          {
+            "name": "Коты",
+            "x": 210,
+            "y": 110,
+            "link": "Коты"
+          }
+        ]
+      },
+      {
+        "storyUrl": "https://s3-alpha-sig.figma.com/img/9b6e/fa04/5f4b0a7188862462c818ab54e25171f6?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=gi4gcrGxh4UyLXFwcQPepKf2E19Zb3ba699Tmwgk~LxtaPSV5gZlDHMBsGF6ZP4l3lUNkhnGWRGUbFbcFLwuIF1M2pR8uwYslN1CqfDV2ZU3zYNSUAFBN8olnU0NkTqrko630vstGuuYFKoBSL45SMveWn3M6UenQyDSOcGYqHRTGr-lp85Zoa0SkNBUgk1-gLA48os18ggFn39se9QKLtBYapTiRvbgvfbM7tfvS8pudgLK0KLN-jDBYQ-fwYxN5ADr4GsxzcUmBQUMbUnia4sduoFXUrC8eSS6e7N2oOwRUSRrvvszPUeRt~7irn2FvtpLMRDfd-QnkdBlP0yNFg__",
+        "id": 15994017483,
+        "datePublic": "2024-06-28T12:08:35.000",
+        "serviceIds": [],
+        "productIds": [],
+        "labels": [
+          {
+            "name": "Записаться на окрашивание",
+            "x": 169,
+            "y": 130.5,
+            "link": "Записаться на окрашивание"
+          }
+        ]
+      },
+      {
+        "storyUrl": "https://s3-alpha-sig.figma.com/img/3afa/888e/ef83038a838191c1e2e40db0116ebc4f?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=azz61R5XcIUb5jedUa9HkN028gikV5nxKffvX-VZEv1BiGz4Au9SLsUiFAL-QGI8LW9XnsOA3fKYfUyswpXiiUX5NkmqDBUj5hX0JgLYmz1dhyWfE4VXLGSbQ6fz9L~N-BUmEa9p34FfzEQcfjqiuXu5iB-uSESe8uN5oTbe1VYfOSPrNsRH~rBb69INbWcQeodn48Sh9HZMaLFr~FZyJNJikmDyM4fJheW6Mfigj3uKfxANd2sva7BX6dwKvqVXHBIV-Q6NjD-Q6mvuqKHiFPM6eDTyuCX-eLR1GJcLkvondufD6y0qE9TlBqLJFKBqAbPUxvmZl9Zu4Yv~C0P2mA__",
+        "id": 15994017484,
+        "datePublic": "2024-06-28T12:08:37.000",
+        "serviceIds": [],
+        "productIds": [],
+        "labels": [
+          {
+            "name": "Записаться на окрашивание",
+            "x": 41,
+            "y": 222,
+            "link": "Записаться на окрашивание"
+          }
+        ]
+      },
+      {
+        "storyUrl": "https://s3-alpha-sig.figma.com/img/79b9/13a6/438b2dc10795f9210e6fcc5c8303d947?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=YZ3HzHIiu43GyfRvKpPtC0ifS12euDPTo3RO9JMRL78mgYt~2qJomlgOZWLTvHKn3Fl0sLjtmK6pizxESffpK9u5SLGPgXkOnbgJjeSdKNlVOq17neerDYd6hc1waCNSecRrMhibB7rwxKai1C32~w5mL6pm4R86-mYu-8T0upCRsLTDBkEa8cGVCSpw-KPBXyEQqt~KhBNCuD9OxbNo0XYCqqkwWGjQhjVIewtUCy7SqkUiLA23ZYy~qlsWknCfu7ywhTyg1vnXeAeyx72PxKOjDjhN~h0bBEcOrk46OYucU-F~U9KfSEimA27Dx2XwNnEXLqezW5d3iyxxUZGXnQ__",
+        "id": 15994017485,
+        "datePublic": "2024-06-28T12:08:38.000",
+        "serviceIds": [],
+        "productIds": [],
+        "labels": [
+          {
+            "name": "Записаться на окрашивание",
+            "x": 169,
+            "y": 130.5,
+            "link": "Записаться на окрашивание"
+          }
+        ]
+      },
+
+      {
+        "storyUrl": "https://s3-alpha-sig.figma.com/img/79b9/13a6/438b2dc10795f9210e6fcc5c8303d947?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=YZ3HzHIiu43GyfRvKpPtC0ifS12euDPTo3RO9JMRL78mgYt~2qJomlgOZWLTvHKn3Fl0sLjtmK6pizxESffpK9u5SLGPgXkOnbgJjeSdKNlVOq17neerDYd6hc1waCNSecRrMhibB7rwxKai1C32~w5mL6pm4R86-mYu-8T0upCRsLTDBkEa8cGVCSpw-KPBXyEQqt~KhBNCuD9OxbNo0XYCqqkwWGjQhjVIewtUCy7SqkUiLA23ZYy~qlsWknCfu7ywhTyg1vnXeAeyx72PxKOjDjhN~h0bBEcOrk46OYucU-F~U9KfSEimA27Dx2XwNnEXLqezW5d3iyxxUZGXnQ__",
+        "id": 15994017487,
+        "datePublic": "2024-06-28T12:08:48.000",
+        "serviceIds": [],
+        "productIds": [],
+        "labels": [
+          {
+            "name": "Записаться на окрашивание",
+            "x": 212,
+            "y": 191,
+            "link": "Записаться на окрашивание"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "idOrganisation": 173345559,
+    "name": "Comfort",
+    "avatar": "https://s3-alpha-sig.figma.com/img/f462/4536/e3a99577bdd95428d46248386dc47b5b?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=gL4hRx3bcHUugE1uzTCHWmvLm8SURUiTvasQlEZMOFh3ttVEZGPUkFTDXPWKV7lVYQFOnnHtJjpQZXilIlFmEojULDqSakqBr4kGvivG2CyS8MOB0CzgaqObtaInpXNfFYg-Zb~ofmiXgWeMHIq1ctMrc2svI5DjXqHDdGMCNNeSotThiacRIAync-JP04SMdnCmETXW8SKDp7MqCzX8SoKvaNt1Xr80KrwLLkeQfRTUYw1xSnHsJ-3y~oej49QcVOWJlxvFI~QSTYwkwIH5hPM45xDl1tsVRuzwJTqN-S~YY-hBt8GkHgGz0~pU1lpUXwWN98g8-PURO39YZqzeJw__",
+    "organisationLink": "Comfortable",
+    "stories": [
+      {
+        "storyUrl": "https://s3-alpha-sig.figma.com/img/281e/9340/0a3ab8c0482286fc61153a486dbf658c?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=BFDLPaihM-5Wq7JLD51kmVtleFO--qz7rWNx4TNqT93goqMnSj9Cib-C-SVzSJVeMHGz4PTNnPKqju9h9X0JTG48LzQFLhjeinflM0RwERQ5oHnRi6oYqsm4aMvYozNo06a3QZL5JdMv3MpIMxWnAR2vtumQYN83tZJDurTG6UWHKhuLcsQeoYvQH9P0XubLNe8ISPHWsqeOCVJ7WvAHi8EDkIh2ty-4eM2TDfj2Yzi1ez9Fx6Zm4BpFzO9MB~1lBM~Zd9wKEhho5dWnPz1Mu10nAePgy-Dg8uneVWZtwnH6ax70A-ZRzJcapTk00VFezS7OlNOmnXJ0v43GqsreDQ__",
+        "id": 15994017491,
+        "datePublic": "2024-06-28T13:08:32.000",
+        "serviceIds": [],
+        "productIds": [],
+        "labels": [
+          {
+            "name": "Записаться",
+            "x": 79,
+            "y": 363.5,
+            "link": "Записаться"
+          }
+        ]
+      },
+      {
+        "storyUrl": "https://s3-alpha-sig.figma.com/img/8303/64f0/5334352e8950fb2a4b94b471bcbe1521?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=SkDCP7GVzRS2aXSM-h9rNMR6XOeL4KfL~-RdGCkRQKWWWrIc8wuXROtlmRPrKVHiE0R1Wu7iDoaOkAdlqXQ4CWf9~zbl-hJheEovAoi3pezhihj0lgMj0QG93H9ObjB1eYdLpJamM9gcqzWvQ8gu7p1cjzR6qMYAFguERK8DD7sIhFf0rmcy1TsDHaAkqRbss68FRT82ibqMyo2CittH8PxK38-YUFXrmOroKiIMPhVacUgUV9sRG2oTzTLcOzFEr-jc301tz72cp8AryMev9~meea3a-PAaCF7ZuCjsg70uhhXBh2S0JmqvXNwfvD0XjjVzd0b73bo7uPkO-R3sYw__",
+        "id": 15994017492,
+        "datePublic": "2024-06-28T13:08:34.000",
+        "serviceIds": [],
+        "productIds": [],
+        "labels": [
+          {
+            "name": "Записаться на окрашивание",
+            "x": 210,
+            "y": 318,
+            "link": "Записаться на окрашивание"
+          }
+        ]
+      },
+      {
+        "storyUrl": "https://s3-alpha-sig.figma.com/img/9b6e/fa04/5f4b0a7188862462c818ab54e25171f6?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=gi4gcrGxh4UyLXFwcQPepKf2E19Zb3ba699Tmwgk~LxtaPSV5gZlDHMBsGF6ZP4l3lUNkhnGWRGUbFbcFLwuIF1M2pR8uwYslN1CqfDV2ZU3zYNSUAFBN8olnU0NkTqrko630vstGuuYFKoBSL45SMveWn3M6UenQyDSOcGYqHRTGr-lp85Zoa0SkNBUgk1-gLA48os18ggFn39se9QKLtBYapTiRvbgvfbM7tfvS8pudgLK0KLN-jDBYQ-fwYxN5ADr4GsxzcUmBQUMbUnia4sduoFXUrC8eSS6e7N2oOwRUSRrvvszPUeRt~7irn2FvtpLMRDfd-QnkdBlP0yNFg__",
+        "id": 15994017493,
+        "datePublic": "2024-06-28T13:08:35.000",
+        "serviceIds": [],
+        "productIds": [],
+        "labels": [
+          {
+            "name": "Записаться на окрашивание",
+            "x": 169,
+            "y": 530.5,
+            "link": "Записаться на окрашивание"
+          }
+        ]
+      },
+      {
+        "storyUrl": "https://s3-alpha-sig.figma.com/img/3afa/888e/ef83038a838191c1e2e40db0116ebc4f?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=azz61R5XcIUb5jedUa9HkN028gikV5nxKffvX-VZEv1BiGz4Au9SLsUiFAL-QGI8LW9XnsOA3fKYfUyswpXiiUX5NkmqDBUj5hX0JgLYmz1dhyWfE4VXLGSbQ6fz9L~N-BUmEa9p34FfzEQcfjqiuXu5iB-uSESe8uN5oTbe1VYfOSPrNsRH~rBb69INbWcQeodn48Sh9HZMaLFr~FZyJNJikmDyM4fJheW6Mfigj3uKfxANd2sva7BX6dwKvqVXHBIV-Q6NjD-Q6mvuqKHiFPM6eDTyuCX-eLR1GJcLkvondufD6y0qE9TlBqLJFKBqAbPUxvmZl9Zu4Yv~C0P2mA__",
+        "id": 15994017494,
+        "datePublic": "2024-06-28T13:08:37.000",
+        "serviceIds": [],
+        "productIds": [],
+        "labels": [
+          {
+            "name": "Записаться на окрашивание",
+            "x": 91,
+            "y": 122,
+            "link": "Записаться на окрашивание"
+          }
+        ]
+      },
+      {
+        "storyUrl": "https://s3-alpha-sig.figma.com/img/79b9/13a6/438b2dc10795f9210e6fcc5c8303d947?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=YZ3HzHIiu43GyfRvKpPtC0ifS12euDPTo3RO9JMRL78mgYt~2qJomlgOZWLTvHKn3Fl0sLjtmK6pizxESffpK9u5SLGPgXkOnbgJjeSdKNlVOq17neerDYd6hc1waCNSecRrMhibB7rwxKai1C32~w5mL6pm4R86-mYu-8T0upCRsLTDBkEa8cGVCSpw-KPBXyEQqt~KhBNCuD9OxbNo0XYCqqkwWGjQhjVIewtUCy7SqkUiLA23ZYy~qlsWknCfu7ywhTyg1vnXeAeyx72PxKOjDjhN~h0bBEcOrk46OYucU-F~U9KfSEimA27Dx2XwNnEXLqezW5d3iyxxUZGXnQ__",
+        "id": 15994017495,
+        "datePublic": "2024-06-28T13:08:38.000",
+        "serviceIds": [],
+        "productIds": [],
+        "labels": [
+          {
+            "name": "Записаться на окрашивание",
+            "x": 169,
+            "y": 530.5,
+            "link": "Записаться на окрашивание"
+          }
+        ]
+      },
+      {
+        "storyUrl": "https://s3-alpha-sig.figma.com/img/9b6e/fa04/5f4b0a7188862462c818ab54e25171f6?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=gi4gcrGxh4UyLXFwcQPepKf2E19Zb3ba699Tmwgk~LxtaPSV5gZlDHMBsGF6ZP4l3lUNkhnGWRGUbFbcFLwuIF1M2pR8uwYslN1CqfDV2ZU3zYNSUAFBN8olnU0NkTqrko630vstGuuYFKoBSL45SMveWn3M6UenQyDSOcGYqHRTGr-lp85Zoa0SkNBUgk1-gLA48os18ggFn39se9QKLtBYapTiRvbgvfbM7tfvS8pudgLK0KLN-jDBYQ-fwYxN5ADr4GsxzcUmBQUMbUnia4sduoFXUrC8eSS6e7N2oOwRUSRrvvszPUeRt~7irn2FvtpLMRDfd-QnkdBlP0yNFg__",
+        "id": 15994017496,
+        "datePublic": "2024-06-28T13:08:40.000",
+        "serviceIds": [],
+        "productIds": [],
+        "labels": [
+          {
+            "name": "Записаться на окрашивание",
+            "x": 110,
+            "y": 110,
+            "link": "Записаться на окрашивание"
+          }
+        ]
+      },
+      {
+        "storyUrl": "https://s3-alpha-sig.figma.com/img/79b9/13a6/438b2dc10795f9210e6fcc5c8303d947?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=YZ3HzHIiu43GyfRvKpPtC0ifS12euDPTo3RO9JMRL78mgYt~2qJomlgOZWLTvHKn3Fl0sLjtmK6pizxESffpK9u5SLGPgXkOnbgJjeSdKNlVOq17neerDYd6hc1waCNSecRrMhibB7rwxKai1C32~w5mL6pm4R86-mYu-8T0upCRsLTDBkEa8cGVCSpw-KPBXyEQqt~KhBNCuD9OxbNo0XYCqqkwWGjQhjVIewtUCy7SqkUiLA23ZYy~qlsWknCfu7ywhTyg1vnXeAeyx72PxKOjDjhN~h0bBEcOrk46OYucU-F~U9KfSEimA27Dx2XwNnEXLqezW5d3iyxxUZGXnQ__",
+        "id": 15994017497,
+        "datePublic": "2024-06-28T13:08:48.000",
+        "serviceIds": [],
+        "productIds": [],
+        "labels": [
+          {
+            "name": "Записаться на окрашивание",
+            "x": 212,
+            "y": 191,
+            "link": "Записаться на окрашивание"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "idOrganisation": 173345562,
+    "name": "Beauty Studio",
+    "avatar": "https://s3-alpha-sig.figma.com/img/e8b8/004b/c80ba625417ca40e390dbb56c40d1a55?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=l1C2iXGJebBLJvUI08SJ-ZnRtZN9sh93SBmD7-hpMB-ZQjhaxIHYFo97YOeyxDUqMrANNoMAUJlcdWOd~qx6F8UjJWe1GjcoaNg0g5L3cs5kg-G-r6OPp~6fg2GmAT1KeWBDPbzgMvAoqlJhlVp5to3~2IMtBX6R88Cu-hH~jSmqRvG0W93bnYAfyN4r4Unb-BhvzVR29O0uql~-LYERyC0SFtOsRgZ62TbUO8T2LVTB2M1Evza9GuKlPAKK1xOL5H6uYC1dB5fieK8tBpN5f0gbxpfNpCQh~l0el-HlfcExL1fZ7XuXWploANJcq6mqyCFTFa3N7c422CVnLsvkGg__",
+    "organisationLink": "Beuaty uty",
+    "stories": [
+      {
+        "storyUrl": "https://s3-alpha-sig.figma.com/img/9b6e/fa04/5f4b0a7188862462c818ab54e25171f6?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=gi4gcrGxh4UyLXFwcQPepKf2E19Zb3ba699Tmwgk~LxtaPSV5gZlDHMBsGF6ZP4l3lUNkhnGWRGUbFbcFLwuIF1M2pR8uwYslN1CqfDV2ZU3zYNSUAFBN8olnU0NkTqrko630vstGuuYFKoBSL45SMveWn3M6UenQyDSOcGYqHRTGr-lp85Zoa0SkNBUgk1-gLA48os18ggFn39se9QKLtBYapTiRvbgvfbM7tfvS8pudgLK0KLN-jDBYQ-fwYxN5ADr4GsxzcUmBQUMbUnia4sduoFXUrC8eSS6e7N2oOwRUSRrvvszPUeRt~7irn2FvtpLMRDfd-QnkdBlP0yNFg__",
+        "id": 15994017401,
+        "datePublic": "2024-06-28T14:08:32.000",
+        "serviceIds": [],
+        "productIds": [],
+        "labels": [
+          {
+            "name": "Записаться на окрашивание",
+            "x": 79,
+            "y": 363.5,
+            "link": "Записаться на окрашивание"
+          }
+        ]
+      },
+      {
+        "storyUrl": "https://s3-alpha-sig.figma.com/img/281e/9340/0a3ab8c0482286fc61153a486dbf658c?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=BFDLPaihM-5Wq7JLD51kmVtleFO--qz7rWNx4TNqT93goqMnSj9Cib-C-SVzSJVeMHGz4PTNnPKqju9h9X0JTG48LzQFLhjeinflM0RwERQ5oHnRi6oYqsm4aMvYozNo06a3QZL5JdMv3MpIMxWnAR2vtumQYN83tZJDurTG6UWHKhuLcsQeoYvQH9P0XubLNe8ISPHWsqeOCVJ7WvAHi8EDkIh2ty-4eM2TDfj2Yzi1ez9Fx6Zm4BpFzO9MB~1lBM~Zd9wKEhho5dWnPz1Mu10nAePgy-Dg8uneVWZtwnH6ax70A-ZRzJcapTk00VFezS7OlNOmnXJ0v43GqsreDQ__",
+        "id": 15994017402,
+        "datePublic": "2024-06-28T14:08:34.000",
+        "serviceIds": [],
+        "productIds": [],
+        "labels": [
+          {
+            "name": "Записаться на окрашивание",
+            "x": 210,
+            "y": 318,
+            "link": "Записаться на окрашивание"
+          }
+        ]
+      },
+      {
+        "storyUrl": "https://s3-alpha-sig.figma.com/img/8303/64f0/5334352e8950fb2a4b94b471bcbe1521?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=SkDCP7GVzRS2aXSM-h9rNMR6XOeL4KfL~-RdGCkRQKWWWrIc8wuXROtlmRPrKVHiE0R1Wu7iDoaOkAdlqXQ4CWf9~zbl-hJheEovAoi3pezhihj0lgMj0QG93H9ObjB1eYdLpJamM9gcqzWvQ8gu7p1cjzR6qMYAFguERK8DD7sIhFf0rmcy1TsDHaAkqRbss68FRT82ibqMyo2CittH8PxK38-YUFXrmOroKiIMPhVacUgUV9sRG2oTzTLcOzFEr-jc301tz72cp8AryMev9~meea3a-PAaCF7ZuCjsg70uhhXBh2S0JmqvXNwfvD0XjjVzd0b73bo7uPkO-R3sYw__",
+        "id": 15994017403,
+        "datePublic": "2024-06-28T14:08:35.000",
+        "serviceIds": [],
+        "productIds": [],
+        "labels": [
+          {
+            "name": "Записаться на окрашивание",
+            "x": 169,
+            "y": 530.5,
+            "link": "Записаться на окрашивание"
+          }
+        ]
+      },
+      {
+        "storyUrl": "https://s3-alpha-sig.figma.com/img/3afa/888e/ef83038a838191c1e2e40db0116ebc4f?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=azz61R5XcIUb5jedUa9HkN028gikV5nxKffvX-VZEv1BiGz4Au9SLsUiFAL-QGI8LW9XnsOA3fKYfUyswpXiiUX5NkmqDBUj5hX0JgLYmz1dhyWfE4VXLGSbQ6fz9L~N-BUmEa9p34FfzEQcfjqiuXu5iB-uSESe8uN5oTbe1VYfOSPrNsRH~rBb69INbWcQeodn48Sh9HZMaLFr~FZyJNJikmDyM4fJheW6Mfigj3uKfxANd2sva7BX6dwKvqVXHBIV-Q6NjD-Q6mvuqKHiFPM6eDTyuCX-eLR1GJcLkvondufD6y0qE9TlBqLJFKBqAbPUxvmZl9Zu4Yv~C0P2mA__",
+        "id": 15994017404,
+        "datePublic": "2024-06-28T14:08:37.000",
+        "serviceIds": [],
+        "productIds": [],
+        "labels": [
+          {
+            "name": "Записаться на окрашивание",
+            "x": 91,
+            "y": 122,
+            "link": "Записаться на окрашивание"
+          }
+        ]
+      },
+      {
+        "storyUrl": "https://s3-alpha-sig.figma.com/img/79b9/13a6/438b2dc10795f9210e6fcc5c8303d947?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=YZ3HzHIiu43GyfRvKpPtC0ifS12euDPTo3RO9JMRL78mgYt~2qJomlgOZWLTvHKn3Fl0sLjtmK6pizxESffpK9u5SLGPgXkOnbgJjeSdKNlVOq17neerDYd6hc1waCNSecRrMhibB7rwxKai1C32~w5mL6pm4R86-mYu-8T0upCRsLTDBkEa8cGVCSpw-KPBXyEQqt~KhBNCuD9OxbNo0XYCqqkwWGjQhjVIewtUCy7SqkUiLA23ZYy~qlsWknCfu7ywhTyg1vnXeAeyx72PxKOjDjhN~h0bBEcOrk46OYucU-F~U9KfSEimA27Dx2XwNnEXLqezW5d3iyxxUZGXnQ__",
+        "id": 15994017405,
+        "datePublic": "2024-06-28T14:08:38.000",
+        "serviceIds": [],
+        "productIds": [],
+        "labels": [
+          {
+            "name": "Записаться на окрашивание",
+            "x": 169,
+            "y": 530.5,
+            "link": "Записаться на окрашивание"
+          }
+        ]
+      },
+      {
+        "storyUrl": "https://s3-alpha-sig.figma.com/img/9b6e/fa04/5f4b0a7188862462c818ab54e25171f6?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=gi4gcrGxh4UyLXFwcQPepKf2E19Zb3ba699Tmwgk~LxtaPSV5gZlDHMBsGF6ZP4l3lUNkhnGWRGUbFbcFLwuIF1M2pR8uwYslN1CqfDV2ZU3zYNSUAFBN8olnU0NkTqrko630vstGuuYFKoBSL45SMveWn3M6UenQyDSOcGYqHRTGr-lp85Zoa0SkNBUgk1-gLA48os18ggFn39se9QKLtBYapTiRvbgvfbM7tfvS8pudgLK0KLN-jDBYQ-fwYxN5ADr4GsxzcUmBQUMbUnia4sduoFXUrC8eSS6e7N2oOwRUSRrvvszPUeRt~7irn2FvtpLMRDfd-QnkdBlP0yNFg__",
+        "id": 15994017406,
+        "datePublic": "2024-06-28T14:08:40.000",
+        "serviceIds": [],
+        "productIds": [],
+        "labels": [
+          {
+            "name": "Записаться на окрашивание",
+            "x": 110,
+            "y": 110,
+            "link": "Записаться на окрашивание"
+          }
+        ]
+      },
+      {
+        "storyUrl": "https://s3-alpha-sig.figma.com/img/79b9/13a6/438b2dc10795f9210e6fcc5c8303d947?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=YZ3HzHIiu43GyfRvKpPtC0ifS12euDPTo3RO9JMRL78mgYt~2qJomlgOZWLTvHKn3Fl0sLjtmK6pizxESffpK9u5SLGPgXkOnbgJjeSdKNlVOq17neerDYd6hc1waCNSecRrMhibB7rwxKai1C32~w5mL6pm4R86-mYu-8T0upCRsLTDBkEa8cGVCSpw-KPBXyEQqt~KhBNCuD9OxbNo0XYCqqkwWGjQhjVIewtUCy7SqkUiLA23ZYy~qlsWknCfu7ywhTyg1vnXeAeyx72PxKOjDjhN~h0bBEcOrk46OYucU-F~U9KfSEimA27Dx2XwNnEXLqezW5d3iyxxUZGXnQ__",
+        "id": 15994017407,
+        "datePublic": "2024-06-28T14:08:48.000",
+        "serviceIds": [],
+        "productIds": [],
+        "labels": [
+          {
+            "name": "Записаться на окрашивание",
+            "x": 212,
+            "y": 191,
+            "link": "Записаться на окрашивание"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "idOrganisation": 173345562,
+    "name": "LookMe",
+    "avatar": "https://s3-alpha-sig.figma.com/img/a82c/a81a/01598bae75bda7984e3b9c23c241e585?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Fi0UHxOuyKdwSI~orX1~P5oLm2T8aqFctHwHoIU3qFwQm8qxfYO1zEQQBpNyV32GplQrjS8qdFfyV0enwcLP4owdqgKoxNfvKSKQ18wqYjlPIy7-frcBX7vy~xrfQliQLU8gfcPZxuzDxAARl35YnrFezdVFo1fBv-OWMMpRp8Yuaicgj3nfbT4KRcMs7Uv~Z-JwYKxe~LfV1SqXTRvYBf9rb0X6uXecF4P3RixdN7~YTLy15Uj6l7pSsCsn53USq7wEXcV5FeUgxf7yThLMzDuYjOgjZn5o7ez2H3Yz7z7NHRgm-sJ5TDQb1l6FIas9XDpZwxLWn3x~IOGO8vbcYw__",
+    "organisationLink": "Look me man",
+    "stories": [
+      {
+        "storyUrl": "https://s3-alpha-sig.figma.com/img/3afa/888e/ef83038a838191c1e2e40db0116ebc4f?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=azz61R5XcIUb5jedUa9HkN028gikV5nxKffvX-VZEv1BiGz4Au9SLsUiFAL-QGI8LW9XnsOA3fKYfUyswpXiiUX5NkmqDBUj5hX0JgLYmz1dhyWfE4VXLGSbQ6fz9L~N-BUmEa9p34FfzEQcfjqiuXu5iB-uSESe8uN5oTbe1VYfOSPrNsRH~rBb69INbWcQeodn48Sh9HZMaLFr~FZyJNJikmDyM4fJheW6Mfigj3uKfxANd2sva7BX6dwKvqVXHBIV-Q6NjD-Q6mvuqKHiFPM6eDTyuCX-eLR1GJcLkvondufD6y0qE9TlBqLJFKBqAbPUxvmZl9Zu4Yv~C0P2mA__",
+        "id": 15994017411,
+        "datePublic": "2024-06-28T15:08:32.000",
+        "serviceIds": [],
+        "productIds": [],
+        "labels": [
+          {
+            "name": "Записаться на окрашивание",
+            "x": 79,
+            "y": 363.5,
+            "link": "Записаться на окрашивание"
+          }
+        ]
+      },
+      {
+        "storyUrl": "https://s3-alpha-sig.figma.com/img/281e/9340/0a3ab8c0482286fc61153a486dbf658c?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=BFDLPaihM-5Wq7JLD51kmVtleFO--qz7rWNx4TNqT93goqMnSj9Cib-C-SVzSJVeMHGz4PTNnPKqju9h9X0JTG48LzQFLhjeinflM0RwERQ5oHnRi6oYqsm4aMvYozNo06a3QZL5JdMv3MpIMxWnAR2vtumQYN83tZJDurTG6UWHKhuLcsQeoYvQH9P0XubLNe8ISPHWsqeOCVJ7WvAHi8EDkIh2ty-4eM2TDfj2Yzi1ez9Fx6Zm4BpFzO9MB~1lBM~Zd9wKEhho5dWnPz1Mu10nAePgy-Dg8uneVWZtwnH6ax70A-ZRzJcapTk00VFezS7OlNOmnXJ0v43GqsreDQ__",
+        "id": 15994017412,
+        "datePublic": "2024-06-28T15:08:34.000",
+        "serviceIds": [],
+        "productIds": [],
+        "labels": [
+          {
+            "name": "Записаться на окрашивание",
+            "x": 210,
+            "y": 318,
+            "link": "Записаться на окрашивание"
+          }
+        ]
+      },
+      {
+        "storyUrl": "https://s3-alpha-sig.figma.com/img/9b6e/fa04/5f4b0a7188862462c818ab54e25171f6?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=gi4gcrGxh4UyLXFwcQPepKf2E19Zb3ba699Tmwgk~LxtaPSV5gZlDHMBsGF6ZP4l3lUNkhnGWRGUbFbcFLwuIF1M2pR8uwYslN1CqfDV2ZU3zYNSUAFBN8olnU0NkTqrko630vstGuuYFKoBSL45SMveWn3M6UenQyDSOcGYqHRTGr-lp85Zoa0SkNBUgk1-gLA48os18ggFn39se9QKLtBYapTiRvbgvfbM7tfvS8pudgLK0KLN-jDBYQ-fwYxN5ADr4GsxzcUmBQUMbUnia4sduoFXUrC8eSS6e7N2oOwRUSRrvvszPUeRt~7irn2FvtpLMRDfd-QnkdBlP0yNFg__",
+        "id": 15994017413,
+        "datePublic": "2024-06-28T15:08:35.000",
+        "serviceIds": [],
+        "productIds": [],
+        "labels": [
+          {
+            "name": "Записаться на окрашивание",
+            "x": 169,
+            "y": 530.5,
+            "link": "Записаться на окрашивание"
+          }
+        ]
+      },
+      {
+        "storyUrl": "https://s3-alpha-sig.figma.com/img/8303/64f0/5334352e8950fb2a4b94b471bcbe1521?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=SkDCP7GVzRS2aXSM-h9rNMR6XOeL4KfL~-RdGCkRQKWWWrIc8wuXROtlmRPrKVHiE0R1Wu7iDoaOkAdlqXQ4CWf9~zbl-hJheEovAoi3pezhihj0lgMj0QG93H9ObjB1eYdLpJamM9gcqzWvQ8gu7p1cjzR6qMYAFguERK8DD7sIhFf0rmcy1TsDHaAkqRbss68FRT82ibqMyo2CittH8PxK38-YUFXrmOroKiIMPhVacUgUV9sRG2oTzTLcOzFEr-jc301tz72cp8AryMev9~meea3a-PAaCF7ZuCjsg70uhhXBh2S0JmqvXNwfvD0XjjVzd0b73bo7uPkO-R3sYw__",
+        "id": 15994017414,
+        "datePublic": "2024-06-28T15:08:37.000",
+        "serviceIds": [],
+        "productIds": [],
+        "labels": [
+          {
+            "name": "Записаться на окрашивание",
+            "x": 91,
+            "y": 122,
+            "link": "Записаться на окрашивание"
+          }
+        ]
+      },
+      {
+        "storyUrl": "https://s3-alpha-sig.figma.com/img/79b9/13a6/438b2dc10795f9210e6fcc5c8303d947?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=YZ3HzHIiu43GyfRvKpPtC0ifS12euDPTo3RO9JMRL78mgYt~2qJomlgOZWLTvHKn3Fl0sLjtmK6pizxESffpK9u5SLGPgXkOnbgJjeSdKNlVOq17neerDYd6hc1waCNSecRrMhibB7rwxKai1C32~w5mL6pm4R86-mYu-8T0upCRsLTDBkEa8cGVCSpw-KPBXyEQqt~KhBNCuD9OxbNo0XYCqqkwWGjQhjVIewtUCy7SqkUiLA23ZYy~qlsWknCfu7ywhTyg1vnXeAeyx72PxKOjDjhN~h0bBEcOrk46OYucU-F~U9KfSEimA27Dx2XwNnEXLqezW5d3iyxxUZGXnQ__",
+        "id": 15994017415,
+        "datePublic": "2024-06-28T15:08:38.000",
+        "serviceIds": [],
+        "productIds": [],
+        "labels": [
+          {
+            "name": "Записаться на окрашивание",
+            "x": 169,
+            "y": 530.5,
+            "link": "Записаться на окрашивание"
+          }
+        ]
+      },
+      {
+        "storyUrl": "https://s3-alpha-sig.figma.com/img/9b6e/fa04/5f4b0a7188862462c818ab54e25171f6?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=gi4gcrGxh4UyLXFwcQPepKf2E19Zb3ba699Tmwgk~LxtaPSV5gZlDHMBsGF6ZP4l3lUNkhnGWRGUbFbcFLwuIF1M2pR8uwYslN1CqfDV2ZU3zYNSUAFBN8olnU0NkTqrko630vstGuuYFKoBSL45SMveWn3M6UenQyDSOcGYqHRTGr-lp85Zoa0SkNBUgk1-gLA48os18ggFn39se9QKLtBYapTiRvbgvfbM7tfvS8pudgLK0KLN-jDBYQ-fwYxN5ADr4GsxzcUmBQUMbUnia4sduoFXUrC8eSS6e7N2oOwRUSRrvvszPUeRt~7irn2FvtpLMRDfd-QnkdBlP0yNFg__",
+        "id": 15994017416,
+        "datePublic": "2024-06-28T15:08:40.000",
+        "serviceIds": [],
+        "productIds": [],
+        "labels": [
+          {
+            "name": "Записаться на окрашивание",
+            "x": 110,
+            "y": 110,
+            "link": "Записаться на окрашивание"
+          }
+        ]
+      },
+      {
+        "storyUrl": "https://s3-alpha-sig.figma.com/img/79b9/13a6/438b2dc10795f9210e6fcc5c8303d947?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=YZ3HzHIiu43GyfRvKpPtC0ifS12euDPTo3RO9JMRL78mgYt~2qJomlgOZWLTvHKn3Fl0sLjtmK6pizxESffpK9u5SLGPgXkOnbgJjeSdKNlVOq17neerDYd6hc1waCNSecRrMhibB7rwxKai1C32~w5mL6pm4R86-mYu-8T0upCRsLTDBkEa8cGVCSpw-KPBXyEQqt~KhBNCuD9OxbNo0XYCqqkwWGjQhjVIewtUCy7SqkUiLA23ZYy~qlsWknCfu7ywhTyg1vnXeAeyx72PxKOjDjhN~h0bBEcOrk46OYucU-F~U9KfSEimA27Dx2XwNnEXLqezW5d3iyxxUZGXnQ__",
+        "id": 15994017417,
+        "datePublic": "2024-06-28T15:08:48.000",
+        "serviceIds": [],
+        "productIds": [],
+        "labels": [
+          {
+            "name": "Записаться на окрашивание",
+            "x": 212,
+            "y": 191,
+            "link": "Записаться на окрашивание"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "idOrganisation": 173345562,
+    "name": "Tuning_Wheels",
+    "avatar": "https://s3-alpha-sig.figma.com/img/cab7/7eae/6c621ae11f72dcb82eabab09d5c3c810?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=jCZw4zTs2sDDDr~RNKbz-4zSAXRGPF7s-1lVAe-OELt~EDr2UkzgWnblcIKdIqDLaxYGXhxUMiGMT8DUvpEdGbdi0JXaL8xPvS0KGoLIWyRWMhcxl9C0M0BBzLT17lO5Bq1WfyXch7LmXeBTdGSqVqN4KKN6KbRqJCM3fStBbI41REf3F9gY0cJ5qgQWVa5UgC29LjPr0fPWZo8gmFEFogu6p35aeISAAhds4wMyAMi8aEsGt7A-SzFfeKNw7AeZTPfO~K0csZY5IgzxTE4vI-TpIUiH4Q3h1-~6g83DWrnHMxEs4Mq2Tw017EDOXg7Z~7NDms37SaXAoTT0K9mKCQ__",
+    "organisationLink": "Tuning free",
+    "stories": [
+      {
+        "storyUrl": "https://s3-alpha-sig.figma.com/img/79b9/13a6/438b2dc10795f9210e6fcc5c8303d947?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=YZ3HzHIiu43GyfRvKpPtC0ifS12euDPTo3RO9JMRL78mgYt~2qJomlgOZWLTvHKn3Fl0sLjtmK6pizxESffpK9u5SLGPgXkOnbgJjeSdKNlVOq17neerDYd6hc1waCNSecRrMhibB7rwxKai1C32~w5mL6pm4R86-mYu-8T0upCRsLTDBkEa8cGVCSpw-KPBXyEQqt~KhBNCuD9OxbNo0XYCqqkwWGjQhjVIewtUCy7SqkUiLA23ZYy~qlsWknCfu7ywhTyg1vnXeAeyx72PxKOjDjhN~h0bBEcOrk46OYucU-F~U9KfSEimA27Dx2XwNnEXLqezW5d3iyxxUZGXnQ__",
+        "id": 15994017421,
+        "datePublic": "2024-06-28T16:08:32.000",
+        "serviceIds": [],
+        "productIds": [],
+        "labels": [
+          {
+            "name": "Записаться на окрашивание",
+            "x": 79,
+            "y": 363.5,
+            "link": "Записаться на окрашивание"
+          }
+        ]
+      },
+      {
+        "storyUrl": "https://s3-alpha-sig.figma.com/img/281e/9340/0a3ab8c0482286fc61153a486dbf658c?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=BFDLPaihM-5Wq7JLD51kmVtleFO--qz7rWNx4TNqT93goqMnSj9Cib-C-SVzSJVeMHGz4PTNnPKqju9h9X0JTG48LzQFLhjeinflM0RwERQ5oHnRi6oYqsm4aMvYozNo06a3QZL5JdMv3MpIMxWnAR2vtumQYN83tZJDurTG6UWHKhuLcsQeoYvQH9P0XubLNe8ISPHWsqeOCVJ7WvAHi8EDkIh2ty-4eM2TDfj2Yzi1ez9Fx6Zm4BpFzO9MB~1lBM~Zd9wKEhho5dWnPz1Mu10nAePgy-Dg8uneVWZtwnH6ax70A-ZRzJcapTk00VFezS7OlNOmnXJ0v43GqsreDQ__",
+        "id": 15994017422,
+        "datePublic": "2024-06-28T16:08:34.000",
+        "serviceIds": [],
+        "productIds": [],
+        "labels": [
+          {
+            "name": "Записаться на окрашивание",
+            "x": 210,
+            "y": 318,
+            "link": "Записаться на окрашивание"
+          }
+        ]
+      },
+      {
+        "storyUrl": "https://s3-alpha-sig.figma.com/img/9b6e/fa04/5f4b0a7188862462c818ab54e25171f6?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=gi4gcrGxh4UyLXFwcQPepKf2E19Zb3ba699Tmwgk~LxtaPSV5gZlDHMBsGF6ZP4l3lUNkhnGWRGUbFbcFLwuIF1M2pR8uwYslN1CqfDV2ZU3zYNSUAFBN8olnU0NkTqrko630vstGuuYFKoBSL45SMveWn3M6UenQyDSOcGYqHRTGr-lp85Zoa0SkNBUgk1-gLA48os18ggFn39se9QKLtBYapTiRvbgvfbM7tfvS8pudgLK0KLN-jDBYQ-fwYxN5ADr4GsxzcUmBQUMbUnia4sduoFXUrC8eSS6e7N2oOwRUSRrvvszPUeRt~7irn2FvtpLMRDfd-QnkdBlP0yNFg__",
+        "id": 15994017423,
+        "datePublic": "2024-06-28T16:08:35.000",
+        "serviceIds": [],
+        "productIds": [],
+        "labels": [
+          {
+            "name": "Записаться на окрашивание",
+            "x": 169,
+            "y": 530.5,
+            "link": "Записаться на окрашивание"
+          }
+        ]
+      },
+      {
+        "storyUrl": "https://s3-alpha-sig.figma.com/img/3afa/888e/ef83038a838191c1e2e40db0116ebc4f?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=azz61R5XcIUb5jedUa9HkN028gikV5nxKffvX-VZEv1BiGz4Au9SLsUiFAL-QGI8LW9XnsOA3fKYfUyswpXiiUX5NkmqDBUj5hX0JgLYmz1dhyWfE4VXLGSbQ6fz9L~N-BUmEa9p34FfzEQcfjqiuXu5iB-uSESe8uN5oTbe1VYfOSPrNsRH~rBb69INbWcQeodn48Sh9HZMaLFr~FZyJNJikmDyM4fJheW6Mfigj3uKfxANd2sva7BX6dwKvqVXHBIV-Q6NjD-Q6mvuqKHiFPM6eDTyuCX-eLR1GJcLkvondufD6y0qE9TlBqLJFKBqAbPUxvmZl9Zu4Yv~C0P2mA__",
+        "id": 15994017424,
+        "datePublic": "2024-06-28T16:08:37.000",
+        "serviceIds": [],
+        "productIds": [],
+        "labels": [
+          {
+            "name": "Записаться на окрашивание",
+            "x": 91,
+            "y": 122,
+            "link": "Записаться на окрашивание"
+          }
+        ]
+      },
+      {
+        "storyUrl": "https://s3-alpha-sig.figma.com/img/8303/64f0/5334352e8950fb2a4b94b471bcbe1521?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=SkDCP7GVzRS2aXSM-h9rNMR6XOeL4KfL~-RdGCkRQKWWWrIc8wuXROtlmRPrKVHiE0R1Wu7iDoaOkAdlqXQ4CWf9~zbl-hJheEovAoi3pezhihj0lgMj0QG93H9ObjB1eYdLpJamM9gcqzWvQ8gu7p1cjzR6qMYAFguERK8DD7sIhFf0rmcy1TsDHaAkqRbss68FRT82ibqMyo2CittH8PxK38-YUFXrmOroKiIMPhVacUgUV9sRG2oTzTLcOzFEr-jc301tz72cp8AryMev9~meea3a-PAaCF7ZuCjsg70uhhXBh2S0JmqvXNwfvD0XjjVzd0b73bo7uPkO-R3sYw__",
+        "id": 15994017425,
+        "datePublic": "2024-06-28T16:08:38.000",
+        "serviceIds": [],
+        "productIds": [],
+        "labels": [
+          {
+            "name": "Записаться на окрашивание",
+            "x": 169,
+            "y": 530.5,
+            "link": "Записаться на окрашивание"
+          }
+        ]
+      },
+      {
+        "storyUrl": "https://s3-alpha-sig.figma.com/img/9b6e/fa04/5f4b0a7188862462c818ab54e25171f6?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=gi4gcrGxh4UyLXFwcQPepKf2E19Zb3ba699Tmwgk~LxtaPSV5gZlDHMBsGF6ZP4l3lUNkhnGWRGUbFbcFLwuIF1M2pR8uwYslN1CqfDV2ZU3zYNSUAFBN8olnU0NkTqrko630vstGuuYFKoBSL45SMveWn3M6UenQyDSOcGYqHRTGr-lp85Zoa0SkNBUgk1-gLA48os18ggFn39se9QKLtBYapTiRvbgvfbM7tfvS8pudgLK0KLN-jDBYQ-fwYxN5ADr4GsxzcUmBQUMbUnia4sduoFXUrC8eSS6e7N2oOwRUSRrvvszPUeRt~7irn2FvtpLMRDfd-QnkdBlP0yNFg__",
+        "id": 15994017426,
+        "datePublic": "2024-06-28T16:08:40.000",
+        "serviceIds": [],
+        "productIds": [],
+        "labels": [
+          {
+            "name": "Записаться на окрашивание",
+            "x": 110,
+            "y": 110,
+            "link": "Записаться на окрашивание"
+          }
+        ]
+      },
+      {
+        "storyUrl": "https://s3-alpha-sig.figma.com/img/79b9/13a6/438b2dc10795f9210e6fcc5c8303d947?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=YZ3HzHIiu43GyfRvKpPtC0ifS12euDPTo3RO9JMRL78mgYt~2qJomlgOZWLTvHKn3Fl0sLjtmK6pizxESffpK9u5SLGPgXkOnbgJjeSdKNlVOq17neerDYd6hc1waCNSecRrMhibB7rwxKai1C32~w5mL6pm4R86-mYu-8T0upCRsLTDBkEa8cGVCSpw-KPBXyEQqt~KhBNCuD9OxbNo0XYCqqkwWGjQhjVIewtUCy7SqkUiLA23ZYy~qlsWknCfu7ywhTyg1vnXeAeyx72PxKOjDjhN~h0bBEcOrk46OYucU-F~U9KfSEimA27Dx2XwNnEXLqezW5d3iyxxUZGXnQ__",
+        "id": 15994017427,
+        "datePublic": "2024-06-28T16:08:48.000",
+        "serviceIds": [],
+        "productIds": [],
+        "labels": [
+          {
+            "name": "Записаться на окрашивание",
+            "x": 212,
+            "y": 191,
+            "link": "Записаться на окрашивание"
+          }
+        ]
+      }
+    ]
+  }
+]
+}
