@@ -14,12 +14,10 @@ export default function Slider() {
   const [slides, setSlides] = useState<Data[]>();
 
   const nextSlideHandle = useCallback(() => {
-    console.log("next");
     swiperRef.current?.slideNext();
   }, []);
 
   const prevSlideHandle = useCallback(() => {
-    console.log("prev");
     swiperRef.current?.slidePrev();
   }, []);
 

@@ -61,7 +61,6 @@ export default function Slide({
 
   useEffect(() => {
     if (slideIndex !== activeSlideIndex) {
-      console.log(slideIndex, activeSlideIndex);
       swiperRef.current?.disable();
     } else {
       swiperRef.current?.enable();
@@ -75,7 +74,6 @@ export default function Slide({
         nextSlideHandle();
       } else {
         swiperRef.current?.slideNext();
-        console.log("here1");
       }
     }, delay);
 
