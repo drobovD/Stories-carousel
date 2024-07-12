@@ -1,0 +1,25 @@
+.slide_footer_container {
+  display: none;
+  @media (max-width: 1023px) {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    height: 46px;
+    bottom: 0;
+    z-index: 20;
+    position: absolute;
+  }
+}
+
+.button_style {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 46px;
+  height: 46px;
+  border: none;
+  cursor: pointer;
+  position: relative;
+  background-color: transparent;
+}

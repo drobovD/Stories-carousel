@@ -1,34 +1,7 @@
 import { useEffect, useRef } from "react";
-import styled from "styled-components";
-import { ProgressBarItemProps } from "../interfaces";
+import { ProgressBarItemProps } from "../../interfaces";
 import { debounce } from "lodash";
-
-const ItemContainer = styled.div<{ progress: number }>`
-  transition: margin-right 50s;
-  & > .barProgress {
-    content: "";
-    background-color: white;
-    position: relative;
-    height: 100%;
-    right: 100%;
-  }
-  &.isPrev > .barProgress {
-    transition: unset;
-    right: 0px;
-  }
-
-  &.isNext > .barProgress {
-    transition: unset;
-    right: 100%;
-  }
-
-  position: absolute;
-  overflow: hidden;
-  width: 100%;
-  height: 2px;
-  background-color: gray;
-  z-index: 15;
-`;
+import styles from "./ProgressBarItem.module.scss";
 
 export default function ProgressBarItem({
   progress,
@@ -63,17 +36,16 @@ export default function ProgressBarItem({
   }, [activeStoryIndex, progress, barItemRef.current]);
 
   return (
-    <ItemContainer
-      progress={progress}
+    <div
       className={
         storyIndex === activeStoryIndex
-          ? "isActive"
+          ? `${styles.item_container}`
           : storyIndex < activeStoryIndex
-          ? "isPrev"
-          : "isNext"
+          ? `${styles.item_container} ${styles.is_prev}`
+          : `${styles.item_container} ${styles.is_next}`
       }
     >
-      <div ref={barItemRef} className="barProgress"></div>
-    </ItemContainer>
+      <div ref={barItemRef} className={styles.bar_progress}></div>
+    </div>
   );
 }

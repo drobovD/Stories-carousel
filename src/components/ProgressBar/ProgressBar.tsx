@@ -1,17 +1,6 @@
-import styled from "styled-components";
-import { ProgressBarProps } from "../interfaces";
-import ProgressBarItem from "./ProgressBarItem";
-
-const ProgressBarContainer = styled.div`
-  display: flex;
-  height: 2px;
-  top: 12px;
-  gap: 4px;
-  padding-left: 10px;
-  padding-right: 10px;
-  z-index: 10;
-  position: relative;
-`;
+import { ProgressBarProps } from "../../interfaces";
+import ProgressBarItem from "../ProgressBarItem/ProgressBarItem";
+import styles from "./ProgressBar.module.scss";
 
 export default function ProgressBar({
   progress,
@@ -19,12 +8,13 @@ export default function ProgressBar({
   storiesCount,
 }: ProgressBarProps) {
   return (
-    <ProgressBarContainer>
+    <div className={styles.progress_bar_container}>
       {storiesCount.map((_, index) => (
         <div
+          className={styles.progress_bar_wrapper}
+          key={index}
           style={{
             width: `calc(100% / ${storiesCount.length})`,
-            position: "relative",
           }}
         >
           <ProgressBarItem
@@ -34,6 +24,6 @@ export default function ProgressBar({
           ></ProgressBarItem>
         </div>
       ))}
-    </ProgressBarContainer>
+    </div>
   );
 }

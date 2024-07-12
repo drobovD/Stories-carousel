@@ -1,0 +1,30 @@
+.main_slider {
+  width: 100%;
+  height: calc(100% - 79px);
+  vertical-align: baseline;
+  overflow: hidden;
+  
+  .main_slider_elem {
+    display: flex;
+    width: 442px;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    height: 100%;
+    &.is_not_active {
+      padding: 0px;
+    }
+    &.is_next {
+      justify-content: flex-end;
+    }
+    &.is_prev {
+      justify-content: flex-start;
+    }
+    @media (max-width: 1919px) {
+      width: 626.06px;
+      @media (max-width: 1023px) {
+        width: 340px;
+      }
+    }
+  }
+}

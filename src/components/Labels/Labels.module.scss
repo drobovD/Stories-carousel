@@ -1,0 +1,22 @@
+.labels_container {
+  display: inline-block;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  padding: 10px 12px;
+  border-radius: 8px;
+  font-size: 17px;
+  background-color: rgba(0,0,0,0.5);
+}
+
+.labels_wrapper {
+  min-width: 0;
+}
+
+.link_style {
+  display: block;
+  text-decoration: none;
+  color: white;
+  // width: min-content;
+  // white-space: pre;
+}

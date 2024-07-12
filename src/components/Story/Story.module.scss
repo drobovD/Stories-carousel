@@ -1,0 +1,35 @@
+.story {
+  position: relative;
+}
+
+.on_prev_story {
+  height: 100%;
+  width: 25%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 3;
+}
+
+.story_image {
+  position: relative;
+}
+
+.on_next_story {
+  height: 100%;
+  width: 75%;
+  position: absolute;
+  top: 0;
+  right: 0;
+  z-index: 3;
+}
+
+.action {
+  aspect-ratio: 9/16;
+  @media (max-width: 1023px) {
+    width: 340px;
+  }
+  &.img {
+    object-fit: cover;
+  }
+}

@@ -1,7 +1,8 @@
-import Slide from "./Slide";
+import Slide from "../Slide/Slide";
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import SwiperCore from "swiper";
-import { Data } from "../interfaces";
+import { Data } from "../../interfaces";
+import styles from "./Slider.module.scss";
 
 import { Swiper, SwiperClass, SwiperSlide } from "swiper/react";
 import { Autoplay, Navigation } from "swiper/modules";
@@ -21,60 +22,60 @@ export default function Slider() {
     swiperRef.current?.slidePrev();
   }, []);
 
-  const fetchData = useMemo(
-    () => async () => {
-      try {
-        const res = await fetch("http://localhost:3000/data");
-        if (!res.ok) throw new Error("Error");
-        const data = await res.json();
-        setSlides(data);
-      } catch (error) {
-        console.error(error);
-      }
-    },
-    []
-  );
-
   useEffect(() => {
-    fetchData();
-  }, [fetchData]);
+    const fetchData = () => {
+      fetch("data.json")
+        .then((response) => response.json())
+        .then((json) => setSlides(json.data));
+    };
+
+    const timer = setTimeout(() => {
+      fetchData();
+    }, 50);
+
+    return () => clearTimeout(timer);
+  }, []);
 
   return (
     <Swiper
-      className="my-swiper"
+      className={styles.main_slider}
       breakpoints={{
         340: {
-          spaceBetween: 62,
           slidesPerView: 1,
           centeredSlides: true,
         },
 
-        1024: {
-          spaceBetween: 62,
-          slidesPerView: 3,
+        1023: {
+          slidesPerView: "auto",
           centeredSlides: true,
         },
 
-        1920: {
-          spaceBetween: 36,
-          slidesPerView: 5,
+        1919: {
+          slidesPerView: "auto",
           centeredSlides: true,
         },
       }}
-      allowTouchMove={false}
       onSlideChange={(swiper: SwiperClass) => {
         setActiveSlideIndex(swiper.activeIndex);
+        swiper.updateSlides();
       }}
       onSwiper={(instance: SwiperClass) => {
         swiperRef.current = instance;
       }}
-      style={{ width: "100%" }}
       modules={[Navigation, Autoplay]}
     >
       {slides?.map((slide, index) => (
         <SwiperSlide
           key={index}
-          style={{ display: "flex", position: "relative", height: "100%" }}
+          className={
+            index === activeSlideIndex
+              ? `${styles.main_slider_elem} ${styles.is_active}`
+              : index - activeSlideIndex === 1
+              ? `${styles.main_slider_elem} ${styles.is_next}`
+              : activeSlideIndex - index === 1
+              ? `${styles.main_slider_elem} ${styles.is_prev}`
+              : `${styles.main_slider_elem} ${styles.is_not_active}`
+          }
           // onClick={() => {
           //   if (activeSlideIndex !== index) swiperRef.current?.slideTo(index);
           // }}

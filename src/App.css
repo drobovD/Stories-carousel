@@ -5,21 +5,20 @@ body{line-height:1}
 ol,ul{list-style:none}
 
 #root {
-  display: grid;
+  display: flex;
   font-family: Manrope;
   color: white;
 
-  @media (max-width: 1024px) {
+  @media (max-width: 1023px) {
     display: block;
   }
 }
 
-.my-swiper {
-  height: calc(100% - 144px);
-}
-
-.xs {
-  @media (max-width: 1024px) {
-    width: 340px;
-  }
+.carousel {
+  display: flex;
+  align-items:stretch;
+  flex-direction: column;
+  background-color: #202124;
+  width: 100%;
+  height: 100%;
 }

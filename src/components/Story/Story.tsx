@@ -1,7 +1,8 @@
 import { useEffect, useRef, useState } from "react";
-import { ExtendedStoryProps } from "../interfaces";
+import { ExtendedStoryProps } from "../../interfaces";
 import { useResizeDetector } from "react-resize-detector";
-import Labels from "./Labels";
+import Labels from "../Labels/Labels";
+import styles from "./Story.module.scss";
 
 export default function Story({
   swiperRef,
@@ -65,16 +66,9 @@ export default function Story({
   });
 
   return (
-    <div style={{ position: "relative" }}>
+    <div className={styles.story}>
       <div
-        style={{
-          height: "100%",
-          width: "25%",
-          position: "absolute",
-          top: "0",
-          left: "0",
-          zIndex: "3",
-        }}
+        className={styles.on_prev_story}
         onClick={() => {
           swiperRef.current?.slidePrev();
           if (activeStoryIndex === 0) {
@@ -83,12 +77,11 @@ export default function Story({
           }
         }}
       ></div>
-      <div style={{ position: "relative" }} ref={storyContainer}>
+      <div className={styles.story_image} ref={storyContainer}>
         {action.storyUrl.includes(".mp4") ? (
           <video
-            className="xs"
+            className={styles.action}
             ref={videoRef}
-            style={{ aspectRatio: "9/16" }}
             src={action.storyUrl}
             muted
             width={"100%"}
@@ -96,40 +89,33 @@ export default function Story({
           />
         ) : (
           <img
-            className="xs"
-            style={{ aspectRatio: "9/16", objectFit: "cover" }}
+            className={`${styles.action} ${styles.img}`}
             src={action.storyUrl}
             alt="Story"
             width={"100%"}
             height={"100%"}
           />
         )}
-        <div
-          style={{
-            height: "100%",
-            width: "75%",
-            position: "absolute",
-            top: 0,
-            right: 0,
-            zIndex: 3,
-          }}
-          onClick={() => {
-            swiperRef.current?.slideNext();
-            if (activeStoryIndex === storiesLength - 1) {
-              nextSlideHandle();
-            }
-          }}
-        ></div>
-
-        {action.labels.map((slide) => (
-          <Labels
-            name={slide.name}
-            x={slide.x * ratio}
-            y={slide.y * ratio}
-            link={slide.link}
-          />
-        ))}
       </div>
+      <div
+        className={styles.on_next_story}
+        onClick={() => {
+          swiperRef.current?.slideNext();
+          if (activeStoryIndex === storiesLength - 1) {
+            nextSlideHandle();
+          }
+        }}
+      ></div>
+
+      {action.labels.map((slide) => (
+        <Labels
+          key={slide.name}
+          name={slide.name}
+          x={slide.x * ratio}
+          y={slide.y * ratio}
+          link={slide.link}
+        />
+      ))}
     </div>
   );
 }

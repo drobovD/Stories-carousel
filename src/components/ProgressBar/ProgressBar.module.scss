@@ -1,0 +1,14 @@
+.progress_bar_container {
+  display: flex;
+  height: 2px;
+  top: 12px;
+  gap: 4px;
+  padding-left: 10px;
+  padding-right: 10px;
+  // z-index: 10;
+  position: relative;
+}
+
+.progress_bar_wrapper {
+  position: relative
+}
